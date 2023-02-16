@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Carousel
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+It is one of the challanges from Advent of JavaScript in which we have to build a carousel / image-slider.
 
-## Recommended IDE Setup
+# How to Run
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- install vite.
+- Clone this repository (git clone https://github.com/owais11-art/carousel.git).
+- npm install (To install all the dependencies)
+- npm run dev (To start development server at http://localhost:5173/)
+
+# Functionality
+
+- Users can toggle left and right through the image thumbnails
+- Users can click an image to select it manually
